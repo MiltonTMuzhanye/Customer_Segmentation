@@ -1,0 +1,9 @@
+project:
+  name: customer_segmentation
+  version: "1.0.0"
+
+paths:
+  data_dir: data
+  artifacts_dir: artifacts
+  reports_dir: reports
+  mlflow_dir: mlflow

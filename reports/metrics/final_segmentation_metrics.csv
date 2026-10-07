@@ -1,0 +1,2 @@
+n_customers,n_features,n_clusters,silhouette_score,calinski_harabasz_score,davies_bouldin_score
+4338,10,5,0.3306662458035495,2024.5885643124439,1.1583188700492317

@@ -1,0 +1,5 @@
+model:
+  algorithm: kmeans
+  random_state: 42
+  n_init: 20
+  max_iter: 500
